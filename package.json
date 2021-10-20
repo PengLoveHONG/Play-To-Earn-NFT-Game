@@ -1,8 +1,8 @@
 {
-  "name": "blockchain-game",
+  "name": "NFT Minting Game",
   "version": "0.1.0",
-  "description": "Blockchain memory game",
-  "author": "gregory@dappuniversity.com",
+  "description": "NFT Minting Game",
+  "author": "sagarxyadav@gmail.com",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
     "babel-polyfill": "6.26.0",

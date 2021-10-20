@@ -7,51 +7,51 @@ import brain from '../brain.png'
 const CARD_ARRAY = [
   {
     name: 'fries',
-    img: '/images/fries.png'
+    img: '/images/1.png'
   },
   {
     name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    img: '/images/2.png'
   },
   {
     name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    img: '/images/3.png'
   },
   {
     name: 'pizza',
-    img: '/images/pizza.png'
+    img: '/images/4.png'
   },
   {
     name: 'milkshake',
-    img: '/images/milkshake.png'
+    img: '/images/5.png'
   },
   {
     name: 'hotdog',
-    img: '/images/hotdog.png'
+    img: '/images/6.png'
   },
   {
     name: 'fries',
-    img: '/images/fries.png'
+    img: '/images/7.png'
   },
   {
     name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    img: '/images/8.png'
   },
   {
     name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    img: '/images/9.png'
   },
   {
     name: 'pizza',
-    img: '/images/pizza.png'
+    img: '/images/10.png'
   },
   {
     name: 'milkshake',
-    img: '/images/milkshake.png'
+    img: '/images/11.png'
   },
   {
     name: 'hotdog',
-    img: '/images/hotdog.png'
+    img: '/images/12.png'
   }
 ]
 

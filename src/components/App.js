@@ -187,7 +187,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
           <img src={brain} width="30" height="30" className="d-inline-block align-top" alt="" />
-          &nbsp; Memory Tokens
+          &nbsp; NFT Minting Game
           </a>
           <ul className="navbar-nav px-3">
             <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
@@ -199,7 +199,7 @@ class App extends Component {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <h1 className="d-4">Start matching now!</h1>
+                <h1 className="d-4">Play to Earn NFTs!</h1>
 
                 <div className="grid mb-4" >
 
@@ -224,7 +224,7 @@ class App extends Component {
 
                 <div>
 
-                  <h5>Tokens Collected:<span id="result">&nbsp;{this.state.tokenURIs.length}</span></h5>
+                  <h5> NFTs collected:<span id="result">&nbsp;{this.state.tokenURIs.length}</span></h5>
 
                   <div className="grid mb-4" >
 
